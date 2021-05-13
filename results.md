@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Results
 subtitle: July 2021 
 ---
