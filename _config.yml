@@ -15,6 +15,7 @@ author: Umut Demiriz
 
 navbar-links:
   About Me: "aboutme"
+  Results: "results"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -71,7 +72,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
